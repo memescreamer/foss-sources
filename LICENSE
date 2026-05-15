@@ -1,0 +1,30 @@
+MIT License
+
+Copyright (c) 2026 memescreamer
+
+Permission is hereby granted, free of charge, to any person obtaining a
+copy of this repository's infrastructure files (README, policy
+documentation, release notes, and similar mirror-organisational
+artefacts) (the "Files"), to deal in the Files without restriction,
+including without limitation the rights to use, copy, modify, merge,
+publish, distribute, sublicense, and/or sell copies of the Files, and
+to permit persons to whom the Files are furnished to do so, subject to
+the following conditions:
+
+The above copyright notice and this permission notice shall be included
+in all copies or substantial portions of the Files.
+
+THIS LICENSE APPLIES ONLY TO THE MIRROR-INFRASTRUCTURE FILES IN THIS
+REPOSITORY. Source archives stored as release assets retain their
+original upstream licenses (e.g., GPL-3.0-or-later for ffmpeg, PSF-2.0
+for CPython, LGPL-2.1-or-later for libsndfile). Nothing in this MIT
+grant alters or supersedes any obligation imposed by an upstream
+license on a redistributed source archive.
+
+THE FILES ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
+THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR
+OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+ARISING FROM, OUT OF OR IN CONNECTION WITH THE FILES OR THE USE OR
+OTHER DEALINGS IN THE FILES.

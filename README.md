@@ -88,11 +88,12 @@ it should be here, open an issue.
 
 ## License
 
-This repo's organization and documentation: CC0-1.0 (no rights
-reserved on the mirror infrastructure itself).
+This repository's infrastructure (README, release notes, policy
+documentation) is **MIT-licensed**. See `LICENSE`.
 
 The source archives stored as release assets retain their original
 upstream licenses (GPL-3.0-or-later for ffmpeg, PSF-2.0 for CPython,
-LGPL-2.1-or-later for libsndfile, etc.). Mirroring does not grant any
-license to redistribute beyond what upstream's license already
-permits.
+LGPL-2.1-or-later for libsndfile, etc.). Mirroring grants no
+additional license to redistribute beyond what upstream's license
+already permits — this repo's MIT terms apply only to the
+mirror-infrastructure files, not to any redistributed artefact.
