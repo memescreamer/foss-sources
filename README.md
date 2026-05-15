@@ -1,7 +1,7 @@
 # memescreamer/foss-sources
 
 Source archive mirror for FOSS components redistributed by memescreamer
-products (rAIdio.bot, vAIdeo.bot, and future siblings on the
+products (rAIdio.bot, vAIdeo.bot, and siblings on the
 [doomscroll.fm](https://doomscroll.fm) family).
 
 ## Why this repo exists
